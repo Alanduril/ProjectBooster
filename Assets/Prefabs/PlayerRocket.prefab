@@ -62,6 +62,17 @@ MonoBehaviour:
       m_Action: Thrust
       m_Flags: 0
     m_Flags: 0
+  rotate:
+    m_Name: Rotate
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 4c1dfad3-bb9a-4265-aff8-83457063d9de
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  thrustStrength: 1
+  rotateStrength: 1
 --- !u!1001 &7744107715076463153
 PrefabInstance:
   m_ObjectHideFlags: 0
